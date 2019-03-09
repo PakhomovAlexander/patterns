@@ -1,3 +1,5 @@
 rootProject.name = 'patterns'
 include 'singleton'
+include 'factory'
+include 'adapter'
 
