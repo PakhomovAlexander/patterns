@@ -4,4 +4,5 @@ include 'factory'
 include 'adapter'
 include 'facade'
 include 'proxy'
+include 'composite'
 
