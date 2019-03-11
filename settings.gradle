@@ -3,4 +3,5 @@ include 'singleton'
 include 'factory'
 include 'adapter'
 include 'facade'
+include 'proxy'
 
