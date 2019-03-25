@@ -8,4 +8,5 @@ include 'composite'
 include 'iterator'
 include 'decorator'
 include 'unitOfWork'
+include 'repository'
 

@@ -1,0 +1,22 @@
+plugins {
+    id 'java'
+}
+
+group 'apakhomov'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'org.slf4j', name: 'slf4j-simple', version: '1.6.1'
+    
+    compile "org.springframework.data:spring-data-jpa:+"
+    compile "org.hibernate:hibernate-entitymanager:+"
+    compile "commons-dbcp:commons-dbcp:+"
+    compile "com.h2database:h2:+"
+    compile "com.google.guava:guava:+"
+}
