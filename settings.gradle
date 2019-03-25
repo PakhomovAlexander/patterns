@@ -6,4 +6,5 @@ include 'facade'
 include 'proxy'
 include 'composite'
 include 'iterator'
+include 'decorator'
 

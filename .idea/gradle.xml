@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/adapter" />
             <option value="$PROJECT_DIR$/composite" />
+            <option value="$PROJECT_DIR$/decorator" />
             <option value="$PROJECT_DIR$/facade" />
             <option value="$PROJECT_DIR$/factory" />
             <option value="$PROJECT_DIR$/iterator" />
