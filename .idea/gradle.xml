@@ -16,6 +16,7 @@
             <option value="$PROJECT_DIR$/iterator" />
             <option value="$PROJECT_DIR$/proxy" />
             <option value="$PROJECT_DIR$/singleton" />
+            <option value="$PROJECT_DIR$/unitOfWork" />
           </set>
         </option>
         <option name="useQualifiedModuleNames" value="true" />

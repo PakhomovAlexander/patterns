@@ -7,4 +7,5 @@ include 'proxy'
 include 'composite'
 include 'iterator'
 include 'decorator'
+include 'unitOfWork'
 
